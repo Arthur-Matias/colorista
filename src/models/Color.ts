@@ -1,6 +1,6 @@
 import { maxArray, minArray } from "../utils/MinMaxArr";
-import { SimplexNoise } from "../utils/simplex-noise";
-import ColorPalette, { ColorType } from "./ColorPalette";
+// import { SimplexNoise } from "../utils/simplex-noise";
+// import ColorPalette, { ColorType } from "./ColorPalette";
 import ColorProps from "./ColorProps";
 
 

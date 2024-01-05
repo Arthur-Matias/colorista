@@ -37,7 +37,7 @@ body{
     color: white;
     font-weight: 900;
    
-    img{
+    .logo-img{
       width: 3rem;
       margin-right: 1rem;
     }

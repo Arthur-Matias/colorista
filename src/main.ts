@@ -7,7 +7,7 @@ const paletteElement = document.getElementById("palette") as HTMLDivElement;
 const gradientElement = document.getElementById("gradient") as HTMLDivElement;
 const palette = new ColorPalette();
 
-window.addEventListener("load", e=>{
+window.addEventListener("load", ()=>{
   // console.log(paletteElement)
   // console.log(palette)
   palette.updatePalette(paletteElement)
